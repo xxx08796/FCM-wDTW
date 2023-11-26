@@ -34,4 +34,4 @@ The experiment results on anomaly detection are as follows:
 Runtime comparisons on two representative datasets CalIt2 and PCSO are as follows:
 
 <center class="half">
-<img src="./Pics/Runtime_CalIt2.png" width="400"/><img src="./Pics/Runtime_PCSO5.png" width="400"/></center>
+<img src="./Pics/Runtime_CalIt2.png" width="350"/><img src="./Pics/Runtime_PCSO5.png" width="350"/></center>
